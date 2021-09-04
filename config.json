@@ -33,6 +33,14 @@
       "placeholder_path": "./photos/hawaii/lee-portrait.placeholder.jpg"
     },
     {
+      "width": 1287,
+      "height": 2048,
+      "path": "./photos/hawaii/lounging.jpg",
+      "compressed_path": "./photos/hawaii/lounging.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/hawaii/lounging.placeholder.jpg"
+    },
+    {
       "width": 2048,
       "height": 1365,
       "path": "./photos/hawaii/luau.jpg",
@@ -50,6 +58,14 @@
     },
     {
       "width": 2048,
+      "height": 1221,
+      "path": "./photos/hawaii/palace.jpg",
+      "compressed_path": "./photos/hawaii/palace.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/hawaii/palace.placeholder.jpg"
+    },
+    {
+      "width": 2048,
       "height": 1365,
       "path": "./photos/hawaii/pointing.jpg",
       "compressed_path": "./photos/hawaii/pointing.min.jpg",
@@ -58,11 +74,35 @@
     },
     {
       "width": 2048,
+      "height": 1365,
+      "path": "./photos/hawaii/pool-side.jpg",
+      "compressed_path": "./photos/hawaii/pool-side.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/hawaii/pool-side.placeholder.jpg"
+    },
+    {
+      "width": 2048,
+      "height": 1151,
+      "path": "./photos/hawaii/the-view.jpg",
+      "compressed_path": "./photos/hawaii/the-view.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/hawaii/the-view.placeholder.jpg"
+    },
+    {
+      "width": 2048,
       "height": 1591,
       "path": "./photos/hawaii/treebump.jpg",
       "compressed_path": "./photos/hawaii/treebump.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/hawaii/treebump.placeholder.jpg"
+    },
+    {
+      "width": 2048,
+      "height": 1365,
+      "path": "./photos/hawaii/treetop.jpg",
+      "compressed_path": "./photos/hawaii/treetop.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/hawaii/treetop.placeholder.jpg"
     },
     {
       "width": 1365,
