@@ -72,5 +72,71 @@
       "compressed": true,
       "placeholder_path": "./photos/hawaii/undertree.placeholder.jpg"
     }
+  ],
+  "penryn": [
+    {
+      "width": 2048,
+      "height": 1770,
+      "path": "./photos/penryn/bebop-pond.jpg",
+      "compressed_path": "./photos/penryn/bebop-pond.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/penryn/bebop-pond.placeholder.jpg"
+    },
+    {
+      "width": 2048,
+      "height": 1365,
+      "path": "./photos/penryn/bebop.jpg",
+      "compressed_path": "./photos/penryn/bebop.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/penryn/bebop.placeholder.jpg"
+    },
+    {
+      "width": 2048,
+      "height": 1365,
+      "path": "./photos/penryn/evil-larry.jpg",
+      "compressed_path": "./photos/penryn/evil-larry.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/penryn/evil-larry.placeholder.jpg"
+    },
+    {
+      "width": 2048,
+      "height": 1595,
+      "path": "./photos/penryn/fleurs.jpg",
+      "compressed_path": "./photos/penryn/fleurs.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/penryn/fleurs.placeholder.jpg"
+    },
+    {
+      "width": 1073,
+      "height": 697,
+      "path": "./photos/penryn/hawk.jpg",
+      "compressed_path": "./photos/penryn/hawk.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/penryn/hawk.placeholder.jpg"
+    },
+    {
+      "width": 2048,
+      "height": 1365,
+      "path": "./photos/penryn/licking-bop.jpg",
+      "compressed_path": "./photos/penryn/licking-bop.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/penryn/licking-bop.placeholder.jpg"
+    },
+    {
+      "width": 2048,
+      "height": 1365,
+      "path": "./photos/penryn/new-mama.jpg",
+      "compressed_path": "./photos/penryn/new-mama.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/penryn/new-mama.placeholder.jpg"
+    },
+    {
+      "width": 2048,
+      "height": 1365,
+      "path": "./photos/penryn/worried-bop.jpg",
+      "compressed_path": "./photos/penryn/worried-bop.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/penryn/worried-bop.placeholder.jpg"
+    }
   ]
 }
